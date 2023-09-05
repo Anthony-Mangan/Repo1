@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-	cout << "My name is Anthony Mangan." << endl;
+	cout << "My name is Anthony Mangan. I modify this doc" << endl;
 	return 0;
 }
